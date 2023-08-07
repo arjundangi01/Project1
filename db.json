@@ -51,7 +51,7 @@
         "id": 2
       },
       {
-        "image1": "https://glossier-prod.imgix.net/products/glossier-bdc-wildfig-carousel-01.png?auto=compress,format&cs=srgb&w=180",
+        "image1": "https://glossier-prod.imgix.net/products/glossier-bdc-wildfig-carousel-01.png?auto=compress,format&cs=srgb&w=540",
         "image2": "https://glossier-prod.imgix.net/products/glossier-bdc-wildfig-carousel-08.png?auto=compress,format&cs=srgb&w=540",
         "image3": "https://glossier-prod.imgix.net/products/glossier-bdc-wildfig-carousel-05.png?auto=compress,format&cs=srgb&w=540",
         "video1": "https://player.vimeo.com/progressive_redirect/playback/815629235/rendition/360p/file.mp4?loc=external&signature=84d9ee0a8e909f69f572bb2aff14f1dc62ada444ab618c3b3913c7d75b56e605",
@@ -66,7 +66,7 @@
         "id": 3
       },
       {
-        "image1": "https://glossier-prod.imgix.net/products/glossier-futuredew-carousel-01.png?auto=compress,format&cs=srgb&w=180",
+        "image1": "https://glossier-prod.imgix.net/products/glossier-futuredew-carousel-01.png?auto=compress,format&cs=srgb&w=540",
         "image2": "https://glossier-prod.imgix.net/products/glossier-futuredew-carousel-03.png?auto=compress,format&cs=srgb&w=540",
         "image3": "https://glossier-prod.imgix.net/products/futuredew-2.jpg?auto=compress,format&cs=srgb&w=540",
         "video1": "https://player.vimeo.com/progressive_redirect/playback/815642486/rendition/480p/file.mp4?loc=external&signature=0574411195b6974759ec4c9046dd265d50671f804c539f26d1de22499ec0e2b6",
@@ -81,7 +81,7 @@
         "id": 4
       },
       {
-        "image1": "https://glossier-prod.imgix.net/products/glossier-super-bounce-carousel-01_76a56806-4efa-4df0-9beb-2f030da73fa3.png?auto=compress,format&cs=srgb&w=180",
+        "image1": "https://glossier-prod.imgix.net/products/glossier-super-bounce-carousel-01_76a56806-4efa-4df0-9beb-2f030da73fa3.png?auto=compress,format&cs=srgb&w=540",
         "image2": "https://glossier-prod.imgix.net/products/glossier-super-bounce-carousel-03.png?auto=compress,format&cs=srgb&w=916",
         "image3": "https://glossier-prod.imgix.net/products/glossier-super-bounce-carousel-02.png?auto=compress,format&cs=srgb&w=916",
         "video1": "https://player.vimeo.com/progressive_redirect/playback/815666849/rendition/480p/file.mp4?loc=external&signature=bc088eadd9a376698c27c89d60edd17e0645ee3ee11fb24a20bd29bc8b89486d",
@@ -96,7 +96,7 @@
         "id": 5
       },
       {
-        "image1": "https://glossier-prod.imgix.net/products/glossier-invisible-shield-carousel-01_f6471fa7-9197-4c39-8cec-00ab11b7691b.png?auto=compress,format&cs=srgb&w=180",
+        "image1": "https://glossier-prod.imgix.net/products/glossier-invisible-shield-carousel-01_f6471fa7-9197-4c39-8cec-00ab11b7691b.png?auto=compress,format&cs=srgb&w=540",
         "image2": "https://glossier-prod.imgix.net/products/glossier-invisible-shield-carousel-04.png?auto=compress,format&cs=srgb&w=540",
         "image3": "https://glossier-prod.imgix.net/products/glossier-invisible-shield-carousel-05.png?auto=compress,format&cs=srgb&w=540",
         "video1": "https://player.vimeo.com/progressive_redirect/playback/815883270/rendition/360p/file.mp4?loc=external&signature=465da0c007b61d45cc841da64c3a063d0efb11f3e2e12e6d9314dbca1d3df1fc",
@@ -111,7 +111,7 @@
         "id": 6
       },
       {
-        "image1": "https://glossier-prod.imgix.net/products/glossier-priming-moisturizer-carousel-01.png?auto=compress,format&cs=srgb&w=180",
+        "image1": "https://glossier-prod.imgix.net/products/glossier-priming-moisturizer-carousel-01.png?auto=compress,format&cs=srgb&w=540",
         "image2": "https://glossier-prod.imgix.net/products/glossier-priming-moisturizer-carousel-03.png?auto=compress,format&cs=srgb&w=540",
         "image3": "https://glossier-prod.imgix.net/products/glossier-priming-moisturizer-carousel-05.png?auto=compress,format&cs=srgb&w=540",
         "video1": "https://player.vimeo.com/progressive_redirect/playback/815660647/rendition/480p/file.mp4?loc=external&signature=c16ff17f63a58600a7f4b69cfd7f3bb2ce8a271e7c6c395a99375462fc7b4787",
@@ -126,7 +126,7 @@
         "id": 7
       },
       {
-        "image1": "https://glossier-prod.imgix.net/products/glossier-super-pure-carousel-01_85d96349-189e-4750-808e-f2cef2b2a7ae.png?auto=compress,format&cs=srgb&w=180",
+        "image1": "https://glossier-prod.imgix.net/products/glossier-super-pure-carousel-01_85d96349-189e-4750-808e-f2cef2b2a7ae.png?auto=compress,format&cs=srgb&w=540",
         "image2": "https://glossier-prod.imgix.net/products/glossier-super-pure-carousel-03.png?auto=compress,format&cs=srgb&w=540",
         "image3": "https://glossier-prod.imgix.net/products/glossier-super-pure-carousel-05.png?auto=compress,format&cs=srgb&w=540",
         "video1": "https://player.vimeo.com/progressive_redirect/playback/816253229/rendition/480p/file.mp4?loc=external&signature=96811e01ee2bc8eabf877c09c2e37d0da17d6270d07c7e6aa5393b6e7f5ddaa3",
