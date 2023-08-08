@@ -22,8 +22,8 @@
     "glossier":[
       {
         "image1": "https://glossier-prod.imgix.net/products/glossier-cleanser-concentrate-carousel-01.png?auto=compress,format&cs=srgb&w=540",
-        "image2": "https://glossier-prod.imgix.net/products/glossier-cleanser-concentrate-carousel-08.png?auto=compress,format&cs=srgb&w=540",
-        "image3": "https://glossier-prod.imgix.net/products/glossier-cleanser-concentrate-carousel-08.png?auto=compress,format&cs=srgb&w=540",
+        "image2": "https://glossier-prod.imgix.net/products/glossier-cleanser-concentrate-carousel-03.png?auto=compress,format&cs=srgb&w=540",
+        "image3": "https://glossier-prod.imgix.net/products/glossier-cleanser-concentrate-carousel-02.png?auto=compress,format&cs=srgb&w=540",
         "video1": "https://player.vimeo.com/progressive_redirect/playback/815650642/rendition/480p/file.mp4?loc=external&signature=58ca21976cabfe41540bd1d6d4c3d0240f8cbc99c84ec3509ae496704a4eb872",
         "name": "Cleanser Concentrate",
         "desc": "Clarifying face wash",
@@ -139,6 +139,66 @@
         "bestSelling": "yes",
         "quantity": 1,
         "id": 8
+      },
+      {
+        "image1": "https://glossier-prod.imgix.net/products/glossier-moisturizing-moon-mask-carousel-01_73d37e4e-bcd4-44f7-ad6a-4b5448ebeb60.png?auto=compress,format&cs=srgb&w=540",
+        "image2": "https://glossier-prod.imgix.net/products/glossier-moisturizing-moon-mask-carousel-06.png?auto=compress,format&cs=srgb&w=540",
+        "image3": "https://glossier-prod.imgix.net/products/glossier-moisturizing-moon-mask-carousel-06.png?auto=compress,format&cs=srgb&w=540",
+        "video1": "https://glossier-prod.imgix.net/files/glossier-moisturizing-moon-mask-ugc-01.png?auto=compress,format&cs=srgb&w=540",
+        "name": "Moisturizing  Mask",
+        "desc": "Soothing face treatment",
+        "skinType": "Dry",
+        "rating": 5,
+        "price": "6",
+        "category": "Treatments",
+        "bestSelling": "yes",
+        "quantity": 1,
+        "id": 9
+      },
+      {
+        "image1": "https://glossier-prod.imgix.net/products/glossier-pro-retinol-carousel-01_674a9a03-1adf-4a9c-9c47-3fb6ce7abc5d.png?auto=compress,format&cs=srgb&w=540",
+        "image2": "https://glossier-prod.imgix.net/products/glossier-pro-retinol-carousel-08.png?auto=compress,format&cs=srgb&w=540",
+        "image3": "https://glossier-prod.imgix.net/products/glossier-pro-retinol-carousel-08.png?auto=compress,format&cs=srgb&w=540",
+        "video1": "https://player.vimeo.com/progressive_redirect/playback/816340637/rendition/360p/file.mp4?loc=external&signature=9f200e61ce40c8998750581e6dfe22f92c96f54f1502a6ddf3b1bcbe11565bcd",
+        "name": "Universal Pro-Retinol",
+        "desc": "Nightly renewing complex",
+        "skinType": "Normal",
+        "rating": 5,
+        "price": "35",
+        "category": "Treatments",
+        "bestSelling": "yes",
+        "quantity": 1,
+        "id": 10
+      },
+      {
+        "image1": "https://glossier-prod.imgix.net/products/glossier-solution-carousel-01.png?auto=compress,format&cs=srgb&w=540",
+        "image2": "https://glossier-prod.imgix.net/products/glossier-solution-carousel-07.png?auto=compress,format&cs=srgb&w=540",
+        "image3": "https://glossier-prod.imgix.net/products/glossier-solution-carousel-07.png?auto=compress,format&cs=srgb&w=540",
+        "video1": "https://glossier-prod.imgix.net/files/glossier-solution-ugc-01_d577f011-9518-4357-9f3f-3a184543373c.png?auto=compress,format&cs=srgb&w=540",
+        "name": "Solution",
+        "desc": "Exfoliating skin perfector",
+        "skinType": "Sensitive",
+        "rating": 8,
+        "price": "26",
+        "category": "Treatments",
+        "bestSelling": "yes",
+        "quantity": 1,
+        "id": 11
+      },
+      {
+        "image1": "https://glossier-prod.imgix.net/products/glossier-priming-moisturizer-rich-carousel-01.png?auto=compress,format&cs=srgb&w=540",
+        "image2": "https://glossier-prod.imgix.net/products/glossier-priming-moisturizer-rich-carousel-08.png?auto=compress,format&cs=srgb&w=540",
+        "image3": "https://glossier-prod.imgix.net/products/glossier-priming-moisturizer-rich-carousel-08.png?auto=compress,format&cs=srgb&w=540",
+        "video1": "https://player.vimeo.com/progressive_redirect/playback/815665158/rendition/480p/file.mp4?loc=external&signature=70382f4d12b3411d19d5f553ba8a3e22016139228dffd748707eb9b9ad472b2f",
+        "name": "Priming Moisturizer",
+        "desc": "Luxurious face cream  3.97399 star rating",
+        "skinType": "Sensitive",
+        "rating": 4,
+        "price": "35",
+        "category": "Sunscreen",
+        "bestSelling": "yes",
+        "quantity": 1,
+        "id": 12
       }
   
     ]
