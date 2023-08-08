@@ -199,6 +199,36 @@
         "bestSelling": "yes",
         "quantity": 1,
         "id": 12
+      },
+      {
+        "image1": "https://glossier-prod.imgix.net/products/glossier-after-baume-carousel-01_23fe78f1-1917-42e6-9448-b7f44e65acfc.png?auto=compress,format&cs=srgb&w=540",
+        "image2": "https://glossier-prod.imgix.net/products/glossier-after-baume-carousel-08.png?auto=compress,format&cs=srgb&w=540",
+        "image3": "https://glossier-prod.imgix.net/products/glossier-after-baume-carousel-08.png?auto=compress,format&cs=srgb&w=540",
+        "video1": "https://player.vimeo.com/progressive_redirect/playback/815636967/rendition/480p/file.mp4?loc=external&signature=5fa1e49c08270c6b21f9f34cc1a8eb1e5d474b7633f99411c00b2ada4b29366c",
+        "name": "After Baume",
+        "desc": "Moisture recovery cream",
+        "skinType": "Normal",
+        "rating": 8,
+        "price": "28",
+        "category": "Moisturizers",
+        "bestSelling": "yes",
+        "quantity": 1,
+        "id": 13
+      },
+      {
+        "image1": "https://glossier-prod.imgix.net/products/glossier-priming-moisturizer-balance-carousel-01_4b6e0d57-d05e-46fc-8610-ab6201468c2c.png?auto=compress,format&cs=srgb&w=540",
+        "image2": "https://glossier-prod.imgix.net/products/glossier-priming-moisturizer-balance-carousel-08.png?auto=compress,format&cs=srgb&w=540",
+        "image3": "https://glossier-prod.imgix.net/products/glossier-priming-moisturizer-balance-carousel-08.png?auto=compress,format&cs=srgb&w=540",
+        "video1": "https://player.vimeo.com/progressive_redirect/playback/816316854/rendition/480p/file.mp4?loc=external&signature=59ac9015c9bcc91c42d5eda4f64564e80f859732bb3930e449b5e301df0c9bf7",
+        "name": "Moisturizer Balance",
+        "desc": "Oil-control cream",
+        "skinType": "Oily",
+        "rating": 0,
+        "price": "25",
+        "category": "Moisturizers",
+        "bestSelling": "yes",
+        "quantity": 1,
+        "id": 14
       }
   
     ]
