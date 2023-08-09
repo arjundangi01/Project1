@@ -149,7 +149,7 @@
         "desc": "Soothing face treatment",
         "skinType": "Dry",
         "rating": 5,
-        "price": "6",
+        "price": 6,
         "category": "Treatments",
         "bestSelling": "yes",
         "quantity": 1,
